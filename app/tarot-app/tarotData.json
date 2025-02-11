@@ -1,0 +1,27 @@
+[
+  {
+    "name": "The Fool",
+    "image": "fool.jpg",
+    "description": "New beginnings, innocence."
+  },
+  {
+    "name": "The Magician",
+    "image": "magician.jpg",
+    "description": "Skill, willpower, creation."
+  },
+  {
+    "name": "The High Priestess",
+    "image": "high_priestess.jpg",
+    "description": "Intuition, mystery, the subconscious."
+  },
+  {
+    "name": "The Empress",
+    "image": "empress.jpg",
+    "description": "Fertility, abundance, nurturing."
+  },
+  {
+    "name": "The Emperor",
+    "image": "emperor.jpg",
+    "description": "Authority, structure, control."
+  }
+]
